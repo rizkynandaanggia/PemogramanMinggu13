@@ -1,0 +1,15 @@
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\bin\Debug\net6.0\PemogramanMinggu13.exe
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\bin\Debug\net6.0\PemogramanMinggu13.deps.json
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\bin\Debug\net6.0\PemogramanMinggu13.runtimeconfig.json
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\bin\Debug\net6.0\PemogramanMinggu13.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\bin\Debug\net6.0\PemogramanMinggu13.pdb
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\obj\Debug\net6.0\PemogramanMinggu13.csproj.AssemblyReference.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\obj\Debug\net6.0\PemogramanMinggu13.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\obj\Debug\net6.0\PemogramanMinggu13.AssemblyInfoInputs.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\obj\Debug\net6.0\PemogramanMinggu13.AssemblyInfo.cs
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\obj\Debug\net6.0\PemogramanMinggu13.csproj.CoreCompileInputs.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\obj\Debug\net6.0\PemogramanMinggu13.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\obj\Debug\net6.0\refint\PemogramanMinggu13.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\obj\Debug\net6.0\PemogramanMinggu13.pdb
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\obj\Debug\net6.0\PemogramanMinggu13.genruntimeconfig.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 13\PemogramanMinggu13\PemogramanMinggu13\obj\Debug\net6.0\ref\PemogramanMinggu13.dll
